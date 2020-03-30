@@ -1,0 +1,2 @@
+# downloading-history-data-of-listed-nse-stocks-using-yfinance
+The .py program in this repository is able to download all the listed nse stock historic prices from listing date of stock. I have used multi-threading so that the data will get downloaded quickly. Note: run this program after keeping it in some folder so that the created 1500+ .csv files can be easily managed, as it will get messed up on desktop.
